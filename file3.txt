@@ -1,0 +1,2 @@
+This is file3.txt created locally
+This is just a bugfix
